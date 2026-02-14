@@ -266,18 +266,14 @@ export default function Page() {
       )}
 
       {/* Footer */}
-      <footer className="mt-8 border-t border-border bg-card/50 px-4 py-6 text-center text-xs text-muted-foreground">
-        <p>
-          {"Made with care for students everywhere"}
-          <span className="mx-1.5 text-primary" aria-hidden="true">/</span>
-          {"Last-Minute Savior"}
-          <span className="mx-1.5 text-primary" aria-hidden="true">/</span>
-          {"Build4Students Hackathon"}
-        </p>
-        <p className="mt-2 italic text-muted-foreground/70">
-          Built for students under pressure, not productivity perfection.
-        </p>
-      </footer>
+      <footer className="mt-16 border-t border-border px-4 py-6 text-center text-xs text-muted-foreground">
+  <p>
+    {"Made with care for students everywhere"}
+  </p>
+  <p className="mt-2 italic text-muted-foreground/70">
+    Built for students under pressure, not productivity perfection.
+  </p>
+</footer>
     </main>
   )
 }
