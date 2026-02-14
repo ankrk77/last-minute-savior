@@ -107,6 +107,19 @@ Supportive, not judgmental.
 
 This app is built **by a student, for students**.
 
+
+---
+
+## 🚀 Future Improvements
+
+If given more time, this project could be extended with:
+- Smarter AI explanations based on syllabus patterns
+- Offline mode for low-connectivity students
+- Personalized exam confidence tracking
+- Short interactive focus games for mental reset
+- Subject-wise adaptive difficulty suggestions
+
+
 ---
 
 ## 🛠️ Built With
